@@ -2,12 +2,12 @@
 <h3 align="center">SRE / DevOps Engineer — Observability, Reliability & Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+observability+pipelines+with+Go+%26+the+LGTM+stack;SRE+%7C+DevOps+%7C+AWS+%7C+OpenTelemetry;Turning+incidents+into+error+budgets%2C+not+war+rooms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+zero-downtime+AWS+infrastructure;SRE+%7C+DevOps+%7C+AWS+%7C+OpenTelemetry;Turning+incidents+into+error+budgets%2C+not+war+rooms" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="mailto:v4vatsalyasingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -15,9 +15,9 @@
 ### 🔭 About Me
 
 - 🎓 B.Sc. Data Science student at ICFAI University, Dehradun (2023–2026)
-- ⚙️ SRE Engineer **Zversal Pvt. Ltd.** — building observability tooling and reliability practices for production Go microservices
-- 🔍 Focused on **observability, incident response, and infrastructure automation**
-- 📊 Comfortable across the full monitoring stack: Datadog, Prometheus, Grafana, Loki, Tempo (LGTM), and OpenTelemetry
+- ⚙️ Operations Analyst Intern on the **SRE team at Zversal Pvt. Ltd.** — observability tooling and reliability practices for production Go microservices
+- 🔍 Focused on **cloud infrastructure, observability, and zero-downtime deployment strategies**
+- 📊 Hands-on with the full monitoring stack: Datadog, Prometheus, Grafana, Loki, Tempo, and OpenTelemetry
 - 🌱 Currently deepening my skills in Terraform/IaC and Kubernetes
 - 📫 Open to full-time **SRE / DevOps / Cloud Engineer** roles
 
@@ -29,6 +29,7 @@
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
 
 **Cloud & Infrastructure**
@@ -36,6 +37,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
 
@@ -49,28 +51,25 @@
   <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white">
 </p>
 
-**Practices**
+**Data & BI**
 <p>
-  <img src="https://img.shields.io/badge/SLIs%2FSLOs%2FSLAs-4A4A4A?style=flat-square">
-  <img src="https://img.shields.io/badge/Error%20Budgets-4A4A4A?style=flat-square">
-  <img src="https://img.shields.io/badge/Incident%20Management-4A4A4A?style=flat-square">
-  <img src="https://img.shields.io/badge/Blameless%20Postmortems-4A4A4A?style=flat-square">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </p>
 
 ---
 
-###  Featured Projects
+### 📌 Featured Projects
 
 | Project | Description |
 |---|---|
-| **[observability](https://github.com/Vatsalyasingh-001)** | Production-ready OpenTelemetry library for Go microservices — tracers, meters, W3C propagation, and webhook-specific instrumentation |
-| **AIOps Engine** | 30-file, 8-package Go PoC: Prometheus/Loki collectors, anomaly detection, and LLM-backed incident analysis (Ollama/OpenAI) |
-| **Stock Market Observability** | Go-based observability pipeline on the full LGTM stack (Prometheus, Loki, Tempo, Grafana) with an OpenTelemetry collector |
-| **AI PR Reviewer** | Self-hosted LLM-based PR review pipeline (Ollama `qwen2.5-coder:7b`) with GitHub webhook triggers and inline PR comments |
-| **E-commerce Log Generator** | Python service generating realistic synthetic log traffic across 16 microservices for an OpenSearch/Grafana observability sandbox |
-| **VaidhyaAI** | Go monorepo rebuild of a healthcare booking platform — role-based dashboards and a voice-AI appointment call-handler |
+| **[ec2-zero-downtime-migration](https://github.com/Vatsalyasingh-001/ec2-zero-downtime-migration)** | AWS EC2 zero-downtime migration using an Application Load Balancer, Target Groups, and Nginx |
+| **[Vaidhya_AI](https://github.com/Vatsalyasingh-001/Vaidhya_AI)** | Healthcare communication platform with intelligent calling (JavaScript) |
+| **[UPI_Transaction-Data-Analytics-and-Power-BI-](https://github.com/Vatsalyasingh-001/UPI_Transaction-Data-Analytics-and-Power-BI-)** | UPI transaction data analytics with Power BI dashboards |
+| **[Sales-Dashboard](https://github.com/Vatsalyasingh-001/Sales-Dashboard)** | Interactive sales analytics dashboard |
+| **[School-Management-System](https://github.com/Vatsalyasingh-001/School-Management-System)** | Full school management system (MIT licensed) |
 
-*(Update these links to point at your actual repos, and consider [pinning](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/pinning-a-repository) the top 4–6 on your profile page.)*
+*(Consider [pinning](https://github.com/Vatsalyasingh-001?tab=repositories) `ec2-zero-downtime-migration` first — it's your strongest DevOps/SRE signal — then 3–5 others.)*
 
 ---
 
@@ -87,7 +86,7 @@
 
 ---
 
-###  Certifications
+### 📜 Certifications
 
 - Python — GUVI
 - MongoDB — MongoDB University
