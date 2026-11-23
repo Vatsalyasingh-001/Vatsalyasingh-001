@@ -15,8 +15,7 @@
 ### 🔭 About Me
 
 - 🎓 B.Sc. Data Science student at ICFAI University, Dehradun (2023–2026)
-- ⚙️ Operations Analyst Intern on the **SRE team at Zversal Pvt. Ltd.** — observability tooling and reliability practices for production Go microservices
-- 🔍 Focused on **cloud infrastructure, observability, and zero-downtime deployment strategies**
+- ⚙️ SRE at Zversal Private Limited - 🔍 Focused on **cloud infrastructure, observability, and zero-downtime deployment strategies**
 - 📊 Hands-on with the full monitoring stack: Datadog, Prometheus, Grafana, Loki, Tempo, and OpenTelemetry
 - 🌱 Currently deepening my skills in Terraform/IaC and Kubernetes
 - 📫 Open to full-time **SRE / DevOps / Cloud Engineer** roles
